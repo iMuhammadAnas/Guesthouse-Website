@@ -48,7 +48,7 @@ This project was developed as an assignment for **Baitussalam Techpark**.
 - Navigate to the folder:
   
   ```bash
-   cd PSDC-React
+   cd Guesthouse-Website
   
 - Install dependencies:
   
