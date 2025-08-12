@@ -34,20 +34,28 @@ This project was developed as an assignment for **Baitussalam Techpark**.
 
 ## 📸 Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/iMuhammadAnas/Guesthouse-Website/main/public/images/screenshot.png) <!-- Replace with actual image link -->
+![Screenshot]([https://raw.githubusercontent.com/iMuhammadAnas/Guesthouse-Website/main/public/images/screenshot.png](https://ik.imagekit.io/iMuhammadAnas/screencapture-guesthouse-website-netlify-app-2025-08-12-23_54_10.png)) <!-- Replace with actual image link -->
 
 ---
 
 ## 🚀 Getting Started (For Local Development)
 
-# Clone the repository
-- git clone https://github.com/iMuhammadAnas/Guesthouse-Website.git
+- Clone the repo:
 
-# Navigate into the project folder
-- cd MuhammadAnas
-
-# Install dependencies
-- npm install
-
-# Run the development server
-- npm run dev
+   ```bash
+   git clone https://github.com/iMuhammadAnas/Guesthouse-Website.git
+   
+- Navigate to the folder:
+  
+  ```bash
+   cd PSDC-React
+  
+- Install dependencies:
+  
+  ```bash
+  npm install
+  
+- Start the project:
+  
+  ```bash
+  npm start
