@@ -34,7 +34,7 @@ This project was developed as an assignment for **Baitussalam Techpark**.
 
 ## 📸 Screenshot
 
-![Screenshot]([https://raw.githubusercontent.com/iMuhammadAnas/Guesthouse-Website/main/public/images/screenshot.png](https://ik.imagekit.io/iMuhammadAnas/screencapture-guesthouse-website-netlify-app-2025-08-12-23_54_10.png)) <!-- Replace with actual image link -->
+![Screenshot](https://ik.imagekit.io/iMuhammadAnas/screencapture-guesthouse-website-netlify-app-2025-08-12-23_54_10.png)
 
 ---
 
