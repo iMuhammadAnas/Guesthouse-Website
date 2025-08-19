@@ -1,4 +1,4 @@
-# 🏨 Guesthouse Website
+# Guesthouse Website
 
 This is a fully functional **Guesthouse Website** built using **React**, **Tailwind CSS**, and **React Router DOM**.  
 It allows users to explore rooms, view facilities, reserve rooms online, and connect via contact form or newsletter.  
