@@ -8,8 +8,8 @@ const GalleryGrid: React.FC<GalleryGridProps> = ({ limit }) => {
   const galleryImages = [
     "https://www.hoteltentrem.com/semarang/wp-content/uploads/sites/4/2025/01/Room-4-A-Junior-Suite-A-Bedroom.jpg",
     "https://www.hoteltentrem.com/yogyakarta/wp-content/uploads/sites/2/2025/01/Deluxe-twin-1366x768.jpg",
-    "https://saigon.newworldhotels.com/wp-content/uploads/sites/18/2014/05/Deluxe-Suite-Living-Room-2.jpg",
-    "https://saigon.newworldhotels.com/wp-content/uploads/sites/18/2014/05/NWSGN-Presidential-Suite-Living-Room2.jpg",
+    "https://hotelimg.lowestfare.com.hk/c/1467/1467290/Image/eabb0e2f2ca19237cdd32dc838a69406.jpg",
+    "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a7/31/67/grand-executive-suite.jpg",
     "https://elegantmansion88.com/UploadFile/Gallery/Rooms/Lake-Front-Executive-Suite/4.jpg",
     "https://www.floralcourt.com/images/banner-mb-01.webp",
     "https://assets.anantara.com/image/upload/q_auto,f_auto,c_limit,w_1045/media/minor/anantara/images/anantara-new-york-palace-budapest/rooms/new-room-carrousels/executive-suite/anantara_new_york_palace_budapest_hotel_guest_room_executive_suite_historical_wing_bed_chairs_window.jpg",
